@@ -1,7 +1,7 @@
 ## Opa eae 👋
-- Estou aprendendo **JavaScript** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/imagens/javascript.svg" alt="JavaScript" width="12"/> no **Node.js** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/imagens/nodejs.svg" alt="Node.js" width="12"/> com **Visual Studio Code** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/imagens/vscode.svg" alt="Visual Studio Code" width="12"/>
-- Pensando em usar **TypeScript** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/imagens/typescript.svg" alt="TypeScript" width="12"/>
-- Fazendo atualmente um bot do **Discord** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/imagens/discord.svg" alt="Discord" width="12"/>
+- Estou aprendendo **JavaScript** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/master/imagens/javascript.svg" alt="JavaScript" width="12"/> no **Node.js** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/master/imagens/nodejs.svg" alt="Node.js" width="12"/> com **Visual Studio Code** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/master/imagens/vscode.svg" alt="Visual Studio Code" width="12"/>
+- Pensando em usar **TypeScript** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/master/imagens/typescript.svg" alt="TypeScript" width="12"/>
+- Fazendo atualmente um bot do **Discord** <img src="https://raw.githubusercontent.com/Gatinho1661/Gatinho1661/master/imagens/discord.svg" alt="Discord" width="12"/>
 
 ----
 
